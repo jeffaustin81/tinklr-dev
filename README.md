@@ -22,8 +22,8 @@ $ php -S localhost:8000
 ```
 ## Technologies Used
 
-Backend: PHP, Silex, Javascript, XML
-Front-End: Bootstrap framework with HTML5, CSS
+Backend: PHP, Silex
+Front-End: Javascript, XML, Bootstrap framework with HTML5, CSS
 
 ### Legal
 
